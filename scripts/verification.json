@@ -1,0 +1,119 @@
+[
+  {
+    "year": "令和8年度",
+    "counts": [
+      66,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "a0835f57e998d5e00235fb40e3fda329cbcf3f9d7daca90a30f323dcd5a6d302",
+      "6e8ee05d9773b4be548d34ace43ce5043445bcebeadbd3a8e6298e15800f495f",
+      "aebeaf4a0fbb5f758afa9952d128b35a961119ea5dafb44923e1ec78187c6e46"
+    ]
+  },
+  {
+    "year": "令和7年度",
+    "counts": [
+      66,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "7252fba81325028a059f55b1b38c27d79b01cedecef3bbac74a21bceefd4ac2f",
+      "919fd58926f25b1d5b9af0f397689f9b389e02f259a5e08cb956bb99faa9798a",
+      "69a2e6ee7bd483c3ee0c493ee3939a0d04f73b96e4b8bf32e2913488b91e31ff"
+    ]
+  },
+  {
+    "year": "令和6年度",
+    "counts": [
+      66,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "a725cf6980c33a47b243211b992c723c95ee77729779a4179fca46e0d40ce205",
+      "7f415951429ebbc2776305e74bb2d276ebc52e9820d862c357e4bdc0e0a6833c",
+      "780f6ac043c0fc26af46c28e92204724d4f576fb800634c7978545761829bfac"
+    ]
+  },
+  {
+    "year": "令和5年度",
+    "counts": [
+      61,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "58055b69ded51c78d0752f082d6c1f7f8e5e7eab40cbab7bdee092ccffe49d4a",
+      "e16d4b20d7881d78572cdf19602db7abb2be2d460109f82c080b80aa7ff3dd0c",
+      "fb536dca6ca73732bd040fae7f03215cbaea0e3debed563ee74a9acd65f45558"
+    ]
+  },
+  {
+    "year": "令和4年度",
+    "counts": [
+      61,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "6832eb0a1d17357405ef91a68d6224f9acd2d93d1448750ec3df5af8f853e5fd",
+      "24f6d7f354bcd58a5fa6b36018ac32b90731885eccd447617ab9ed5d9daaec19",
+      "2d11cd67204f0c81e46f0f422e1131f000505b6a27f8cefa2b9634f33e73a4eb"
+    ]
+  },
+  {
+    "year": "令和3年度",
+    "counts": [
+      61,
+      35
+    ],
+    "answerMethod": "manual-visual",
+    "sha256": [
+      "54e518d45a39f88336a53361bebc6dee33919561f13382f63e788cf066980f93",
+      "8d150ed35291eda03defef26f0a4fb1a5d3ed813c41596974b322e585e6126ad",
+      "0a9113255fa7f3bc0f40c399991ae4df31997703780e0524caab513514fe4cf6"
+    ]
+  },
+  {
+    "year": "令和2年度",
+    "counts": [
+      61,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "18d26d53f88a4c230725a1a45ee448895e22e9677bcb5ce580fb05ebecbc8b84",
+      "3edd856a172fe6b1921112aa2af810b0f900cd21cbc41d7680cbd9de6debc34f",
+      "26b74dd05359e5005b0c4f661141c810b1fecfa22648f1e12e0507794e6398f5"
+    ]
+  },
+  {
+    "year": "令和元年度",
+    "counts": [
+      61,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "742b658c3ffa87bb3031930ebd1254a38e82cf369bb66ec693158066fdac7ad9",
+      "ed2883629f63a686ae919fda0c6fe4514a7460a9d77782013fee8b0f1a28c68d",
+      "b821cf9de8b1a64f35809d5ae96adf88bf6ddd4efe228150bea7f14aacd8e60b"
+    ]
+  },
+  {
+    "year": "平成30年度",
+    "counts": [
+      61,
+      35
+    ],
+    "answerMethod": "text-table",
+    "sha256": [
+      "fabbcfaec031b525c112cd51c7f5a9130226b44f92a94ec0aeea59809b892fe6",
+      "1aa177c12497fda05e3c47ebb0c8ddad016797e887e352a86a183acde0678eca",
+      "94dcceae766c01bd79f0785abaa2e03d36d213d73e5953de7aac28a8b9c0aa1e"
+    ]
+  }
+]
